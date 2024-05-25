@@ -1,4 +1,4 @@
-export const host = "https://chat-app-api-sonikri6543gmailcoms-projects.vercel.app/";
+export const host = "https://chat-app-api-sonikri6543gmailcoms-projects.vercel.app";
 export const registerRoute = `${host}/api/auth/register`;
 
 export const loginRoute = `${host}/api/auth/login`;
